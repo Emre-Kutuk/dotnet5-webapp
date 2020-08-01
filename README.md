@@ -6,6 +6,6 @@ A project that is about building RESTful web service with .NET 5 Web API from th
 * Object-relational mapping with Entity Framework
 * Saving data persistently in a SQL Server database
 * Entity Framework Code-First Migrations
-* Using Postman to test your web service calls
+* Using Postman to test the web service calls
 * All CRUD operations (Create, Read, Update, Delete)
 * HTTP Request Methods GET, POST, PUT, DELETE
